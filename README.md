@@ -108,3 +108,7 @@ The tests stub out the FatSecret client, so they need no network or credentials.
 pip install -r requirements-dev.txt
 python -m pytest
 ```
+
+## Licence
+
+[MIT](LICENSE) © 2025–2026 Samarth Jaiswal
